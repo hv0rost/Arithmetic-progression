@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\Arithmetic progression\bin\Debug\Arithmetic progression.exe.config
+C:\Users\USER\source\repos\Arithmetic progression\bin\Debug\Arithmetic progression.exe
+C:\Users\USER\source\repos\Arithmetic progression\bin\Debug\Arithmetic progression.pdb
+C:\Users\USER\source\repos\Arithmetic progression\obj\Debug\Arithmetic progression.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Arithmetic progression\obj\Debug\Arithmetic progression.exe
+C:\Users\USER\source\repos\Arithmetic progression\obj\Debug\Arithmetic progression.pdb
