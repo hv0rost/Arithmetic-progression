@@ -4,30 +4,30 @@ using System.Runtime.InteropServices;
 
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
-// связанные с этой сборкой.
-[assembly: AssemblyTitle("Arithmetic-progression")]
+// связанных со сборкой.
+[assembly: AssemblyTitle("ArPog")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Arithmetic-progression")]
+[assembly: AssemblyProduct("ArPog")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Установка значения False для параметра ComVisible делает типы в этой сборке невидимыми
 // для компонентов COM. Если необходимо обратиться к типу в этой сборке через
-// из модели COM задайте для атрибута ComVisible этого типа значение true.
+// COM, следует установить атрибут ComVisible в TRUE для этого типа.
 [assembly: ComVisible(false)]
 
-// Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("273efdce-9431-4c88-ae3f-c751061040d5")]
+// Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
+[assembly: Guid("00e5a609-b4d5-4b28-a336-78585bb3116e")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
 //      Основной номер версии
 //      Дополнительный номер версии
 //      Номер сборки
-//      Номер редакции
+//      Редакция
 //
 // Можно задать все значения или принять номера сборки и редакции по умолчанию 
 // используя "*", как показано ниже:
