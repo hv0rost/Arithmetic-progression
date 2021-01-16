@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("Arithmetic progression")]
+[assembly: AssemblyTitle("Arithmetic-progression")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Arithmetic progression")]
+[assembly: AssemblyProduct("Arithmetic-progression")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("7549cc12-dba9-400a-84dd-73b396bd9023")]
+[assembly: Guid("273efdce-9431-4c88-ae3f-c751061040d5")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

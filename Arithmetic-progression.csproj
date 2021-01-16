@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7549CC12-DBA9-400A-84DD-73B396BD9023}</ProjectGuid>
+    <ProjectGuid>{273EFDCE-9431-4C88-AE3F-C751061040D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Arithmetic_progression</RootNamespace>
-    <AssemblyName>Arithmetic progression</AssemblyName>
+    <AssemblyName>Arithmetic-progression</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\Desktop\ArithemeticProgression.cs">
-      <Link>ArithemeticProgression.cs</Link>
-    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

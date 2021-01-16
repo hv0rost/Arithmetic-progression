@@ -10,8 +10,8 @@ namespace Arithmetic_progression
     {
         static void Main(string[] args)
         {
-            double a, b, i = 0;
-            while(true)
+            double a, b;
+            while (true)
             {
                 Console.Write("Enter start digit of arithmetic progression: ");
                 a = Convert.ToDouble(Console.ReadLine());
@@ -22,13 +22,18 @@ namespace Arithmetic_progression
                     break;
             }
 
-            while(a < (b - 1.15 ))
-            {
-                Console.WriteLine($"a{i++} = {a += 1.15}");
-            }
+            ArProgression(a, b);
 
             Console.ReadKey();
 
+        }
+        public static void ArProgression(double start, double end)
+        {
+            int i = 0;
+            while (start < (end - 1.15))
+            {
+                Console.WriteLine($"a{i++} = {start += 1.15}");
+            }
         }
     }
 }
